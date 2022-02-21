@@ -13,6 +13,12 @@ set to suit your setup.
 * fg-music-player.sh This script is intended to play ambient sound or
   background music using the vlc music player.
 
+* fgu-sgv2occ.bash This script can convert a svg file of paths into
+  an xml file of occluders formatted for FGU to understand. This was
+  inspired by a similar Windows Powershell script that does the same
+  thing, by muklin on the Fantasy Grounds Forum
+  [https://www.fantasygrounds.com/forums/showthread.php?63027-Generating-LOS-via-SVG-from-GIMP]
+
 More usage instructions can be found on my Wiki here:
 
 [https://blog.lbs.ca/mediawiki/index.php/DM's_Notes#Maps]
