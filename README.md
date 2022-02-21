@@ -1,4 +1,4 @@
-Here are some tools for using Fantasy Grounds (with a bias for Linux).
+Here are some tools for DMs using Fantasy Grounds (with a bias for Linux).
 The sound scripts have variables at the top that you will need to 
 set to suit your setup.
 
